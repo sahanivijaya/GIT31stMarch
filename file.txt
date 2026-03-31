@@ -1,2 +1,1 @@
-this is myfirst file
-this second line
+file in branch b1
